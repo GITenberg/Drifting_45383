@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43267'
     url: http://www.gutenberg.org/2009/agents/43267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45383#Drifting
 gutenberg_issued: '2014-04-14'
 gutenberg_type: Text
 identifiers:
